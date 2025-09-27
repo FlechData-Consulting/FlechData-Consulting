@@ -80,5 +80,3 @@ Avec des **expériences en entreprise et en freelance**, j'ai aidé des organisa
 Je travaille sur **tout le cycle de vie d'un produit Data**, du nettoyage des données à la mise en production, tout en intégrant **des pratiques MLOps modernes**.
 Mon ambition est d'apporter des solutions **scalables, éthiques et centrées sur l'utilisateur**.
 
-
-Souhaites-tu que je prépare un **modèle README** professionnel pour tes projets, avec sections prêtes à remplir et design attractif ?
