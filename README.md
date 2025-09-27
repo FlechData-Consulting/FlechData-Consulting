@@ -28,7 +28,7 @@ Avec des **expériences en entreprise et en freelance**, j'ai aidé des organisa
 | **Big Data**         | Spark, Hadoop                                                          |
 | **Bases de données** | SQL Server, PostgreSQL, NoSQL (MongoDB)                                |
 | **Visualisation**    | Power BI, Tableau, Matplotlib, Seaborn                                 |
-| **Cloud**            | Azure, AWS (fondamentaux)                                              |
+| **Cloud**            | Azure, GCP (fondamentaux)                                              |
 | **MLOps**            | MLflow, Docker, Kubernetes                                             |
 
 ---
