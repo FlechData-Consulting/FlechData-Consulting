@@ -6,8 +6,6 @@ Titulaire d'un **Master en Management des Systèmes d'Information** de l'**Unive
 
 Avec des **expériences en entreprise et en freelance**, j'ai aidé des organisations dans la finance, l'éducation, la santé et le secteur public à **transformer leurs données en valeur stratégique**.
 
-> 🚀 **Objectif 2026 :** Rejoindre une équipe Data & AI dans une grande entreprise Tech (GAFAM) et contribuer à des projets à fort impact.
-
 ---
 
 ## 🌟 **À propos de moi**
