@@ -1,6 +1,6 @@
 # 👋 Hallo, je m'appelle **Wilfried** !
 
-🎯 **Data Scientist** | **Analyste Financier** | **Data Engineer** | Passionné par l'IA, le Big Data et la création de solutions scalables pour les entreprises Tech.
+🎯 **Data Scientist** | **Analyste Financier** | **AI & Data Engineer** | Passionné par l'IA, le Big Data et la création de solutions scalables pour les entreprises Tech.
 
 Titulaire d'un **Master en Management des Systèmes d'Information** de l'**Université de Paderborn (Allemagne)** 🎓, je combine **expertise technique** et **vision business** pour concevoir des produits data innovants.
 
@@ -12,7 +12,7 @@ Avec des **expériences en entreprise et en freelance**, j'ai aidé des organisa
 
 * 🎓 **Diplôme** : Master en Management de Systèmes d'Information — Université de Paderborn, Allemagne.
 * 🧠 **Passion** : Transformer la donnée en insights exploitables et scalables.
-* 💼 **Expérience** : Data Science, Analyste Financier & Data Engineering, en entreprise et freelance.
+* 💼 **Expérience** : Data Science, Analyste Financier & AI & Data Engineering, en entreprise et freelance.
 * 🌍 **Langues** : Français, Anglais, Allemand.
 * 🏆 **Certifications clés** : Cloud Azure, Machine Learning avancé, MLOps (Microsoft et autres).
 
