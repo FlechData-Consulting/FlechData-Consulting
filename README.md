@@ -1,6 +1,6 @@
 # 👋 Hallo, je m'appelle **Wilfried** !
 
-🎯 **Data Scientist** | **Analyste Financier** | | **Data Engineer** | Passionné par l'IA, le Big Data et la création de solutions scalables pour les entreprises Tech.
+🎯 **Data Scientist** | **Analyste Financier** | **Data Engineer** | Passionné par l'IA, le Big Data et la création de solutions scalables pour les entreprises Tech.
 
 Titulaire d'un **Master en Management des Systèmes d'Information** de l'**Université de Paderborn (Allemagne)** 🎓, je combine **expertise technique** et **vision business** pour concevoir des produits data innovants.
 
