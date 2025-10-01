@@ -4,11 +4,8 @@
 Passionné par la transformation digitale, la finance et le Big Data, je crée des solutions scalables et orientées business.
 
 🎓 **Diplôme** : Master en Management des Systèmes d’Information — Université de Paderborn, Allemagne
-
 💼 **Expérience** : Data Science, Analyste Financier & AI/ Data Engineering, en entreprise et freelance
-
-🌍 **Langues** : Français, Anglais (A2/B1), Allemand (B1/B2 en progression)
-
+🌍 **Langues** : Français, Anglais (B1), Allemand (C1)
 🏆 **Certifications clés** : Azure Cloud, Machine Learning avancé, en cours SAP FI/CO & BW/4HANA
 
 ---
