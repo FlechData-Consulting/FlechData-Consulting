@@ -60,6 +60,12 @@ Passionné par la transformation digitale, la finance et le Big Data, je crée d
 * 🌟 Portfolio : [lien en cours]
 
 ---
+## 📈 **Statistiques GitHub**
+
+![Stats](https://github-readme-stats.vercel.app/api?username=FlechData-Consulting\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlechData-Consulting\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
 
 ## 🎯 Philosophie Data
 
