@@ -17,7 +17,7 @@ Passionné par la transformation digitale, la finance et le Big Data, je crée d
 
 | **Catégorie**        | **Technologies & Outils**                                        |
 | -------------------- | ---------------------------------------------------------------- |
-| **Langages**         | Python, SQL, R                                                   |
+| **Langages**         | Python, SQL                                                      |
 | **Data Science**     | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch                 |
 | **Data Engineering** | Azure Data Factory, Databricks, Apache Airflow, Stream Analytics |
 | **Big Data**         | Spark, Hadoop                                                    |
