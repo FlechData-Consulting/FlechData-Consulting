@@ -61,13 +61,6 @@ Passionné par la transformation digitale, la finance et le Big Data, je crée d
 
 ---
 
-## 📈 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MedwillTech\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MedwillTech\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
 ## 🎯 Philosophie Data
 
 > *"Les données seules ne suffisent pas. Ce qui compte, c'est de transformer les données en insights stratégiques pour créer de la valeur mesurable et soutenir la prise de décision."*
