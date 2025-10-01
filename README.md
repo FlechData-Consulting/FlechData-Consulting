@@ -64,7 +64,3 @@ Passionné par la transformation digitale, la finance et le Big Data, je crée d
 ## 🎯 Philosophie Data
 
 > *"Les données seules ne suffisent pas. Ce qui compte, c'est de transformer les données en insights stratégiques pour créer de la valeur mesurable et soutenir la prise de décision."*
-
-
-
-Veux‑tu que je fasse ça ?
