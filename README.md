@@ -1,6 +1,6 @@
 # 👋 Hallo, je m'appelle **Wilfried**
 
-💡 **Consultant Data & Finance | Data Scientist | AI & Data Engineer**
+💡 **Consultant Data & Finance | Data Scientist **
 Passionné par la transformation digitale, la finance et le Big Data, je crée des solutions scalables et orientées business.
 
 🎓 **Diplôme** : Master en Management des Systèmes d’Information — Université de Paderborn, Allemagne
