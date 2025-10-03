@@ -9,7 +9,7 @@ Passionné par la transformation digitale, la finance et le Big Data, je crée d
 
 🌍 **Langues** : Français, Anglais (B1), Allemand (C1)
 
-🏆 **Certifications clés** : Azure Cloud, Machine Learning avancé, en cours SAP FI/CO & BW/4HANA
+🏆 **Certifications clés** : Azure Cloud, Machine Learning avancé, en cours SAP FI/CO, SAP Analytics & BW/4HANA
 
 ---
 
