@@ -24,7 +24,7 @@ Passionné par la transformation digitale, la finance et le Big Data, je crée d
 | **Bases de données** | SQL Server, PostgreSQL, MongoDB                                  |
 | **Visualisation**    | Power BI, Tableau, Matplotlib, Seaborn                           |
 | **Cloud**            | Azure, GCP (fondamentaux)                                        |
-| **Finance / SAP**    | SAP FI/CO, Controlling, BW/4HANA (en formation)                  |
+| **Finance / SAP**    | SAP FI/CO, Controlling, BW/4HANA & SAP Analytics(en formation)                  |
 
 ---
 
