@@ -28,18 +28,19 @@ Passionné par la transformation digitale, la finance et le Big Data, je crée d
 
 ---
 
-## 🚀 Projets stratégiques à valoriser
+## 💼 Projets Data Science & Finance
 
-> Ces projets sont conçus pour montrer mon expertise **Finance + Data + SAP** et ma capacité à créer des solutions complètes.
+✨ *Clique sur un titre de projet pour explorer le code sur GitHub !*
 
-| Projet                                              | Description                                                                                                              | Stack                                            | Impact / Objectif                                                  |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------------------------ |
-| **Analyse et prédiction des tendances financières** | Pipeline complet pour analyser et prédire l'évolution des prix des actifs financiers (actions, cryptomonnaies, indices). | Python, Pandas, Scikit-learn, TensorFlow         | Insights pour décisions financières et stratégies d’investissement |
-| **Détection de fraudes financières**                | Modèle ML pour identifier des transactions suspectes en temps réel.                                                      | Python, XGBoost, SQL                             | Réduction des pertes financières et alertes automatiques           |
-| **Reporting Finance automatisé avec SAP FI/CO**     | Tableau de bord automatisé pour suivi des coûts, marges et prévisions.                                                   | SAP FI/CO, Power BI, Python                      | Décisions basées sur données consolidées et fiables                |
-| **Pipeline temps réel IoT / Finance Data**          | Pipeline de données temps réel pour monitoring et analyses.                                                              | Azure Stream Analytics, Data Factory, Databricks | Surveillance opérationnelle et optimisation des flux               |
-| **Data Warehouse Finance / BW/4HANA**               | Modélisation et extraction des données FI/CO pour reporting stratégique                                                  | SAP BW/4HANA, SAP Analytics Cloud, Power BI      | Transformation digitale et décisionnel pour le CFO                 |
-| **Projet Generative AI pour Finance**               | LLM pour résumer rapports financiers et générer insights automatisés                                                     | Python, LangChain, Azure, RAG                    | Gain de temps pour analystes et support à la décision              |
+| Projet | Description | Stack | Impact / Objectif |
+| ------- | ------------ | ------ | ----------------- |
+| [**Analyse et prédiction des tendances financières**](https://github.com/FlechData-Consulting/FlechData-Consulting/tree/main/Analyse_predictive) | Pipeline complet pour analyser et prédire l'évolution des prix des actifs financiers (actions, cryptomonnaies, indices). | Python, Pandas, Scikit-learn, TensorFlow | Insights pour décisions financières et stratégies d’investissement |
+| [**Détection de fraudes financières**](https://github.com/FlechData-Consulting/FlechData-Consulting/tree/main/D%C3%A9tection_fraudes_financi%C3%A8res) | Modèle ML pour identifier des transactions suspectes en temps réel. | Python, XGBoost, SQL | Réduction des pertes financières et alertes automatiques |
+| **Reporting Finance automatisé avec SAP FI/CO** | Tableau de bord automatisé pour suivi des coûts, marges et prévisions. | SAP FI/CO, Power BI, Python | Décisions basées sur données consolidées et fiables |
+| **Pipeline temps réel IoT / Finance Data** | Pipeline de données temps réel pour monitoring et analyses. | Azure Stream Analytics, Data Factory, Databricks | Surveillance opérationnelle et optimisation des flux |
+| **Data Warehouse Finance / BW/4HANA** | Modélisation et extraction des données FI/CO pour reporting stratégique | SAP BW/4HANA, SAP Analytics Cloud, Power BI | Transformation digitale et décisionnel pour le CFO |
+| **Projet Generative AI pour Finance** | LLM pour résumer rapports financiers et générer insights automatisés | Python, LangChain, Azure, RAG | Gain de temps pour analystes et support à la décision |
+
 
 ---
 
