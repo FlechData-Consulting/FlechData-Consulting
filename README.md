@@ -58,7 +58,7 @@ Passionné par la transformation digitale, la finance et le Big Data, je crée d
 * 💼 [LinkedIn](https://www.linkedin.com/in/wilfried-agbamate-a4050a283/)
 * 📫 Email : [medard.datatech@gmail.com](mailto:medard.datatech@gmail.com)
 * ▶️ [YouTube](https://www.youtube.com/@flechdataconsulting?sub_confirmation=1) – tutos Data & Cloud
-* 🌟 Portfolio : [lien en cours]
+
 
 ---
 ## 📈 **Statistiques GitHub**
