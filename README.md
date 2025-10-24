@@ -1,73 +1,73 @@
-# 👋 Hallo, je m'appelle **Wilfried**
+# 👋 Hello, I’m **Wilfried**
 
-💡 **Consultant Data & Finance | Data Scientist**
-Passionné par la transformation digitale, la finance et le Big Data, je crée des solutions scalables et orientées business.
+💡 **Data & Finance Consultant | Data Scientist**
+Passionate about digital transformation, finance, and Big Data, I design **scalable, business-driven data solutions** that turn insights into measurable value.
 
-🎓 **Diplôme** : Master en Management des Systèmes d’Information — Université de Paderborn, Allemagne
+🎓 **Education**: Master’s Degree in Information Systems Management — University of Paderborn, Germany
 
-💼 **Expérience** : Data Science, Analyste Financier & AI/ Data Engineering, en entreprise et freelance
+💼 **Experience**: Data Science, Financial Analysis, and AI/Data Engineering — across corporate and freelance projects
 
-🌍 **Langues** : Français, Anglais (B1), Allemand (C1)
+🌍 **Languages**: French (native), English (B1), German (C1)
 
-🏆 **Certifications clés** : Azure Cloud, Machine Learning avancé, en cours SAP FI/CO, SAP Analytics & BW/4HANA
+🏆 **Key Certifications**: Azure Cloud, Advanced Machine Learning, ongoing SAP FI/CO, SAP Analytics & BW/4HANA
 
 ---
 
-## 🛠 Compétences Techniques
+## 🛠 Technical Skills
 
-| **Catégorie**        | **Technologies & Outils**                                        |
+| **Category**         | **Technologies & Tools**                                         |
 | -------------------- | ---------------------------------------------------------------- |
-| **Langages**         | Python, SQL                                                      |
+| **Programming**      | Python, SQL                                                      |
 | **Data Science**     | Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch                 |
 | **Data Engineering** | Azure Data Factory, Databricks, Apache Airflow, Stream Analytics |
 | **Big Data**         | Spark, Hadoop                                                    |
-| **Bases de données** | SQL Server, PostgreSQL, MongoDB                                  |
-| **Visualisation**    | Power BI, Tableau, Matplotlib, Seaborn                           |
-| **Cloud**            | Azure, GCP (fondamentaux)                                        |
-| **Finance / SAP**    | SAP FI/CO, Controlling, BW/4HANA & SAP Analytics (en formation)                  |
+| **Databases**        | SQL Server, PostgreSQL, MongoDB                                  |
+| **Visualization**    | Power BI, Tableau, Matplotlib, Seaborn                           |
+| **Cloud**            | Azure, GCP (fundamentals)                                        |
+| **Finance / SAP**    | SAP FI/CO, Controlling, BW/4HANA & SAP Analytics (in progress)   |
 
 ---
 
-## 💼 Projets Data Science & Finance
+## 💼 Data Science & Finance Projects
 
-✨ *Clique sur un titre de projet pour explorer le code sur GitHub !*
+✨ *Click on a project title to explore the code on GitHub!*
 
-| Projet | Description | Stack | Impact / Objectif |
-| ------- | ------------ | ------ | ----------------- |
-| [**Analyse et prédiction des tendances financières**](https://github.com/FlechData-Consulting/FlechData-Consulting/tree/main/Analyse_predictive) | Pipeline complet pour analyser et prédire l'évolution des prix des actifs financiers (actions, cryptomonnaies, indices). | Python, Pandas, Scikit-learn, TensorFlow | Insights pour décisions financières et stratégies d’investissement |
-| [**Détection de fraudes financières**](https://github.com/FlechData-Consulting/FlechData-Consulting/tree/main/D%C3%A9tection_fraudes_financi%C3%A8res) | Modèle ML pour identifier des transactions suspectes en temps réel. | Python, XGBoost, SQL | Réduction des pertes financières et alertes automatiques |
-| **Reporting Finance automatisé avec SAP FI/CO** | Tableau de bord automatisé pour suivi des coûts, marges et prévisions. | SAP FI/CO, Power BI, Python | Décisions basées sur données consolidées et fiables |
-| **Pipeline temps réel IoT / Finance Data** | Pipeline de données temps réel pour monitoring et analyses. | Azure Stream Analytics, Data Factory, Databricks | Surveillance opérationnelle et optimisation des flux |
-| **Data Warehouse Finance / BW/4HANA** | Modélisation et extraction des données FI/CO pour reporting stratégique | SAP BW/4HANA, SAP Analytics Cloud, Power BI | Transformation digitale et décisionnel pour le CFO |
-| **Projet Generative AI pour Finance** | LLM pour résumer rapports financiers et générer insights automatisés | Python, LangChain, Azure, RAG | Gain de temps pour analystes et support à la décision |
-
-
----
-
-## 📊 Roadmap 2025–2026
-
-* [ ] Déploiement d’une **plateforme MLOps complète** (CI/CD pour modèles ML)
-* [ ] Projet **Generative AI / LLM + RAG** appliqué à la finance et reporting SAP
-* [ ] Certification **SAP FI/CO & BW/4HANA**
-* [ ] Contribution à un **projet open source Data Science ou Finance Analytics**
+| **Project**                                                                                                                                     | **Description**                                                                                               | **Tech Stack**                                   | **Impact / Goal**                                            |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------ |
+| [**Financial Trend Analysis & Forecasting**](https://github.com/FlechData-Consulting/FlechData-Consulting/tree/main/Analyse_predictive)         | End-to-end pipeline for analyzing and predicting the evolution of financial assets (stocks, crypto, indices). | Python, Pandas, Scikit-learn, TensorFlow         | Supports investment strategies and financial decision-making |
+| [**Financial Fraud Detection**](https://github.com/FlechData-Consulting/FlechData-Consulting/tree/main/D%C3%A9tection_fraudes_financi%C3%A8res) | ML model to detect suspicious transactions in real time.                                                      | Python, XGBoost, SQL                             | Reduces financial losses through automated alerts            |
+| **Automated Financial Reporting with SAP FI/CO**                                                                                                | Automated dashboards for cost tracking, margin analysis, and forecasting.                                     | SAP FI/CO, Power BI, Python                      | Provides reliable, consolidated data for informed decisions  |
+| **Real-Time IoT / Financial Data Pipeline**                                                                                                     | Real-time data pipeline for monitoring and analytics.                                                         | Azure Stream Analytics, Data Factory, Databricks | Enables operational monitoring and flow optimization         |
+| **Financial Data Warehouse / BW/4HANA**                                                                                                         | Data modeling and extraction for strategic financial reporting.                                               | SAP BW/4HANA, SAP Analytics Cloud, Power BI      | Drives digital transformation and CFO-level insights         |
+| **Generative AI Project for Finance**                                                                                                           | LLM-based tool for summarizing financial reports and generating insights.                                     | Python, LangChain, Azure, RAG                    | Saves analyst time and supports data-driven decision-making  |
 
 ---
 
-## 🌐 Connecte-toi avec moi
+## 📊 2025–2026 Roadmap
+
+* [ ] Deploy a **full MLOps platform** (CI/CD for ML models)
+* [ ] Develop a **Generative AI / LLM + RAG** project for financial analytics & SAP reporting
+* [ ] Obtain **SAP FI/CO & BW/4HANA certification**
+* [ ] Contribute to an **open-source Data Science or Finance Analytics project**
+
+---
+
+## 🌐 Connect with Me
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/wilfried-agbamate-a4050a283/)
-* 📫 Email : [medard.datatech@gmail.com](mailto:medard.datatech@gmail.com)
-* ▶️ [YouTube](https://www.youtube.com/@flechdataconsulting?sub_confirmation=1) – tutos Data & Cloud
-
+* 📫 Email: [medard.datatech@gmail.com](mailto:medard.datatech@gmail.com)
+* ▶️ [YouTube](https://www.youtube.com/@flechdataconsulting?sub_confirmation=1) — Data & Cloud tutorials
 
 ---
-## 📈 **Statistiques GitHub**
+
+## 📈 **GitHub Statistics**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=FlechData-Consulting\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlechData-Consulting\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-## 🎯 Philosophie Data
+## 🎯 Data Philosophy
 
-> *"Les données seules ne suffisent pas. Ce qui compte, c'est de transformer les données en insights stratégiques pour créer de la valeur mesurable et soutenir la prise de décision."*
+> *"Data alone is not enough. What truly matters is transforming data into strategic insights that create measurable value and empower decision-making."*
+
