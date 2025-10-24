@@ -1,0 +1,22 @@
+Aufgabe1: Entwickle eine batch-basierte Datenarchitektur für eine datenintensive Applikation
+
+Erarbeitungsphase/ Reflexionsphase:
+
+Link zu GitHub: "https://github.com/agbamate1/Batch-project/tree/master"
+
+
+
+
+Erste Schritte um die Ppipeline zu implementieren: 
+
+1-Klonen Sie das Repository:
+
+git clone -b master https://github.com/agbamate1/Batch-project.git
+
+2-Navigieren Sie zum Projektverzeichnis:
+
+cd Batch-project/code
+
+3-Führen Sie Dockerfile aus, um die Dienste einzurichten:
+
+docker-compose up
