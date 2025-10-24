@@ -3,9 +3,9 @@
 💡 **Data & Finance Consultant | Data Scientist**
 Passionate about digital transformation, finance, and Big Data, I design **scalable, business-driven data solutions** that turn insights into measurable value.
 
-🎓 **Education**: Master’s Degree in Information Systems Management — University of Paderborn, Germany
+🎓 **Education**: Master’s Degree in Information Systems Management in University of Paderborn, Germany
 
-💼 **Experience**: Data Science, Financial Analysis, and AI/Data Engineering — across corporate and freelance projects
+💼 **Experience**: Data Science, Financial Analysis, and AI/Data Engineering in across corporate and freelance projects
 
 🌍 **Languages**: French (native), English (B1), German (C1)
 
