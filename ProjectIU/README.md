@@ -15,7 +15,7 @@ In diesem Projekt wird eine End-to-End-Pipeline für Data Engineering aufgebaut,
 
 ## Dateninfrastruktur
 
-![System Architecture](https://github.com/agbamate1/Batch-project/blob/master/Dateninfrastruktur_Batch_.png)
+![System Architecture]([https://github.com/agbamate1/Batch-project/blob/master/Dateninfrastruktur_Batch_.png](https://github.com/FlechData-Consulting/FlechData-Consulting/blob/main/ProjectIU/Datenflussdiagramm%20f%C3%BCr%20Batch-Prozess.png)
 
 
 ## Beschreibung_von_Data
@@ -66,3 +66,4 @@ Das Projekt umfasst die folgenden Komponenten:
     ```bash
     docker-compose up
     ```
+
