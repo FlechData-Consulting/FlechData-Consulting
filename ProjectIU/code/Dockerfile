@@ -13,7 +13,7 @@ COPY . /app
 RUN apt-get update && apt-get install -y git
 
 # Benutzerinformationen für Git konfigurieren
-RUN git config --global user.email "adinonalfred@gmail.com" && \
+RUN git config --global user.email "medard.datatech@gmail.com" && \
     git config --global user.name "Your Name"
 
 # Initialisiere das Git-Repository und mache einen Initial Commit
@@ -23,5 +23,6 @@ RUN git init && git add . && git commit -m "Initial commit"
 RUN pip install --no-cache-dir -r requirements.txt
 # Standard-CMD zum Ausführen des Python-Skripts
 CMD ["python3", "etl_project.py"]
+
 
 
