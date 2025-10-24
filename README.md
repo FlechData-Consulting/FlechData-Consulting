@@ -32,8 +32,6 @@ Passionate about digital transformation, finance, and big data, I design **scala
 
 ✨ *Click on a project title to explore the code on GitHub!*
 
----
-
 | **Project**                                                                                                                                     | **Description**                                                                                                                | **Tech Stack**                                            | **Impact / Goal**                                                                                                                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**Financial Trend Analysis & Forecasting**](https://github.com/FlechData-Consulting/FlechData-Consulting/tree/main/Analyse_predictive)         | End-to-end pipeline for analyzing and predicting the evolution of financial assets (stocks, crypto, indices).                  | Python, Pandas, Scikit-learn, TensorFlow                  | Supports investment strategies and financial decision-making.                                                                                                        |
