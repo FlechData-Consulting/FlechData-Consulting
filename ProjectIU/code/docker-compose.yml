@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  my-python-app:
+    build: .
+    volumes:
+      - ./Data_transformed:/app/Data_transformed
