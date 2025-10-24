@@ -1,70 +1,90 @@
-# Batch-Prozess |  End-to-End Data Engineering Project
+# **Batch Process | End-to-End Data Engineering Project**
 
-## Inhaltsübersicht
-- [Einleitung](#Einleitung)
-- [Dateninfrastruktur](#Dateninfrastruktur)
-- [Beschreibung von Data](#Beschreibung_von_Data)
-- [Quelle](#Quelle)
-- [Technologien](#Technologien)
+## Table of Contents
 
+* [Introduction](#introduction)
+* [Data Infrastructure](#data-infrastructure)
+* [Data Description](#data-description)
+* [Data Source](#data-source)
+* [Technologies](#technologies)
+* [Getting Started](#getting-started)
 
-## Einleitung
+---
 
-In diesem Projekt wird eine End-to-End-Pipeline für Data Engineering aufgebaut, die auf einem Batch-Prozess basiert. Sie deckt alle Schritte von der Datenaufnahme über die Verarbeitung bis hin zur Speicherung ab und nutzt einen robusten Technologie-Stack, der Python und Docker-compose umfasst. Alles wird mithilfe von Docker containerisiert, um den Einsatz und die Skalierbarkeit zu erleichtern.
+## **Introduction**
 
+This project builds an **end-to-end data engineering pipeline** based on a **batch processing architecture**.
+It covers all stages — from data ingestion and transformation to storage — using a robust technology stack built with **Python** and **Docker Compose**.
+All components are containerized using Docker to ensure **easy deployment, scalability, and consistency** across environments.
 
-## Dateninfrastruktur
+---
 
-![System Architecture]([[https://github.com/agbamate1/Batch-project/blob/master](https://github.com/FlechData-Consulting/FlechData-Consulting)/Datenflussdiagramm%20f%C3%BCr%20Batch-Prozess.png](https://github.com/FlechData-Consulting/FlechData-Consulting/blob/main/ProjectIU/Datenflussdiagramm%20f%C3%BCr%20Batch-Prozess.png)
+## **Data Infrastructure**
 
+![System Architecture](https://github.com/FlechData-Consulting/FlechData-Consulting/blob/main/ProjectIU/Datenflussdiagramm%20f%C3%BCr%20Batch-Prozess.png)
 
-## Beschreibung_von_Data
+---
 
-Dieser Datensatz enthält die Daten von über 11.000 Athleten in 47 Disziplinen und 743 Mannschaften, die an den Olympischen Spielen 2021 (2020) in Tokio teilnehmen. Dieser Datensatz enthält die Angaben zu den teilnehmenden Athleten, Trainern und Mannschaften sowie zu den Einträgen nach Geschlecht. Er enthält die Namen, die vertretenen Länder, die Disziplin, das Geschlecht der Teilnehmer und die Namen der Trainer.
+## **Data Description**
 
-- 1-City: Stadt, in der die Olympischen Spiele stattfanden
-- 2-Year: Jahr, in dem die Olympischen Spiele stattgefunden haben
-- 3-Sport: Sportkategorie (z. B. Wassersport, Leichtathletik usw.)
-- 4-Discipline: Die Disziplin innerhalb der Sportart (z. B. Tauchen, Schwimmen usw.)
-- 5-Event: Name des Ereignisses innerhalb der jeweiligen Disziplin (z. B. 3-m-Sprungbrett, 10-m-Plattform usw.)
-- 6-Athlete: Name des Siegers in dieser Disziplin
-- 7-Gender: Geschlecht
-- 8-Country_Code: 3-stelliger Ländercode
-- 9-Country: Land, dem der siegreiche Athlet angehört
-- 10-Event_gender: Geschlechter, die an der Veranstaltung teilgenommen haben (männlich, weiblich oder gemeinsame Veranstaltung)
-- 11-Medal: Medaille (z. B. Bronze, Silber, Gold)
+This dataset includes information about **over 11,000 athletes** across **47 disciplines** and **743 teams** who participated in the **Tokyo 2021 (2020) Olympic Games**.
+It contains detailed information about athletes, coaches, teams, gender distribution, and performance data.
 
+Each record includes:
 
-## Quelle
+* **City** – City where the Olympic Games took place
+* **Year** – Year of the Olympic Games
+* **Sport** – Sport category (e.g., Aquatics, Athletics, etc.)
+* **Discipline** – Sub-discipline within the sport (e.g., Diving, Swimming, etc.)
+* **Event** – Specific event name (e.g., 3m Springboard, 10m Platform, etc.)
+* **Athlete** – Name of the athlete who won the event
+* **Gender** – Gender of the athlete
+* **Country_Code** – Three-letter country code
+* **Country** – Country represented by the athlete
+* **Event_Gender** – Gender category of the event (male, female, or mixed)
+* **Medal** – Type of medal won (Bronze, Silver, Gold)
 
-Website der Olympischen Spiele 2020 in Tokio
+---
 
-- Link: https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo
+## **Data Source**
 
-## Technologien
+Official dataset from the **Tokyo 2020 Olympic Games**
 
-Das Projekt umfasst die folgenden Komponenten:
+📊 **Source:** [Kaggle - 2021 Olympics in Tokyo](https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo)
 
-- **Data Quelle**: Wir haben die Daten aus `www.kaggle.com`, für unser Projekt über den Batch-Prozessor verwendet. 
-- **Python**: Programmierungssprache für Pipeline und Datenschutz
-- **Docker-compose**: Wo werden die verarbeiteten Daten gespeichert.
+---
 
-## Erste Schritte
+## **Technologies**
 
-1. Klonen Sie das Repository:
+This project includes the following key components:
 
-    ```bash
-    git clone -b master https://github.com/agbamate1/Batch-project.git
-    ```
+* **Data Source:** Data collected from `www.kaggle.com` and processed through a batch data pipeline.
+* **Python:** Programming language for ETL, data processing, and automation.
+* **Docker Compose:** Used to orchestrate and store processed data within Docker containers.
 
-2. Navigieren Sie zum Projektverzeichnis:
-    ```bash
-    cd Batch-project/code
-    ```
+---
 
-3. Führen Sie Dockerfile aus, um die Dienste einzurichten:
-    ```bash
-    docker-compose up
-    ```
+## **Getting Started**
 
+1. **Clone the repository:**
 
+   ```bash
+   git clone -b main https://github.com/FlechData-Consulting/FlechData-Consulting.git
+   ```
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd FlechData-Consulting/code
+   ```
+
+3. **Run Docker Compose to set up the services:**
+
+   ```bash
+   docker-compose up
+   ```
+
+-
+
+Souhaitez-vous que je te crée une **version Markdown stylisée pour GitHub (avec emoji, badges et mise en page visuelle moderne)** ?
+Cela rendrait la page de ton projet plus professionnelle et attrayante.
