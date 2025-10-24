@@ -14,7 +14,7 @@
 ## **Introduction**
 
 This project builds an **end-to-end data engineering pipeline** based on a **batch processing architecture**.
-It covers all stages — from data ingestion and transformation to storage — using a robust technology stack built with **Python** and **Docker Compose**.
+It covers all stages from data ingestion and transformation to storage using a robust technology stack built with **Python** and **Docker Compose**.
 All components are containerized using Docker to ensure **easy deployment, scalability, and consistency** across environments.
 
 ---
@@ -75,7 +75,7 @@ This project includes the following key components:
 2. **Navigate to the project directory:**
 
    ```bash
-   cd FlechData-Consulting/code
+   cd ProjectIU/code
    ```
 
 3. **Run Docker Compose to set up the services:**
@@ -84,7 +84,3 @@ This project includes the following key components:
    docker-compose up
    ```
 
--
-
-Souhaitez-vous que je te crée une **version Markdown stylisée pour GitHub (avec emoji, badges et mise en page visuelle moderne)** ?
-Cela rendrait la page de ton projet plus professionnelle et attrayante.
