@@ -18,11 +18,11 @@ data = response.json()
 
 # Liste der URLs der CSV-Dateien auf GitHub
 csv_urls = [
-    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/Athletes.csv',
-    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/Coaches.csv',
-    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/EntriesGender.csv',
-    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/Medals.csv',
-    'https://raw.githubusercontent.com/agbamate1/Batch-project/master/data/Teams.csv'
+    'https://raw.githubusercontent.com/FlechData-Consulting/FlechData-Consulting/main/ProjectIU/data/Athletes.csv',
+    'https://raw.githubusercontent.com/FlechData-Consulting/FlechData-Consulting/main/ProjectIU/data/Coaches.csv',
+    'https://raw.githubusercontent.com/FlechData-Consulting/FlechData-Consulting/main/ProjectIU/data/EntriesGender.csv',
+    'https://raw.githubusercontent.com/FlechData-Consulting/FlechData-Consulting/main/ProjectIU/data/Medals.csv',
+    'https://raw.githubusercontent.com/FlechData-Consulting/FlechData-Consulting/main/ProjectIU/data/Teams.csv'
     # Ajoutez d'autres URL au besoin
 ]
 
@@ -256,3 +256,4 @@ Coaches.to_csv(os.path.join(data_transformed_folder, 'Coaches.csv'), index=False
 EntriesGender.to_csv(os.path.join(data_transformed_folder,'EntriesGender.csv' ),index=False)
 Medals.to_csv(os.path.join(data_transformed_folder,'Medals.csv' ),index=False)
 Teams.to_csv(os.path.join(data_transformed_folder,'Teams.csv' ),index=False)
+
