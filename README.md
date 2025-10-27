@@ -1,6 +1,6 @@
 # 👋 Hello, I’m **Wilfried**
 
-💡 **Data & Finance Consultant | Data Scientist**
+💡 **Data Scientist | Quantitative Analyst**
 Passionate about digital transformation, finance, and big data, I design **scalable, business-driven data solutions** that turn insights into measurable value.
 
 🎓 **Education:** Master’s Degree in Information Systems Management at the *University of Paderborn, Germany*
